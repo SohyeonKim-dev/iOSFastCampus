@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55003E9028730BAC00599444 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55003E8F28730BAC00599444 /* SettingViewController.swift */; };
 		55B32CAE2872DD9A00D66BA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B32CAD2872DD9A00D66BA3 /* AppDelegate.swift */; };
 		55B32CB02872DD9A00D66BA3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B32CAF2872DD9A00D66BA3 /* SceneDelegate.swift */; };
 		55B32CB22872DD9A00D66BA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B32CB12872DD9A00D66BA3 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		55003E8F28730BAC00599444 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		55B32CAA2872DD9A00D66BA3 /* LEDBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LEDBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55B32CAD2872DD9A00D66BA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55B32CAF2872DD9A00D66BA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				55B32CAF2872DD9A00D66BA3 /* SceneDelegate.swift */,
 				55B32CB12872DD9A00D66BA3 /* ViewController.swift */,
 				55B32CB32872DD9A00D66BA3 /* Main.storyboard */,
+				55003E8F28730BAC00599444 /* SettingViewController.swift */,
 				55B32CB62872DD9A00D66BA3 /* Assets.xcassets */,
 				55B32CB82872DD9A00D66BA3 /* LaunchScreen.storyboard */,
 				55B32CBB2872DD9A00D66BA3 /* Info.plist */,
@@ -141,6 +144,7 @@
 				55B32CB22872DD9A00D66BA3 /* ViewController.swift in Sources */,
 				55B32CAE2872DD9A00D66BA3 /* AppDelegate.swift in Sources */,
 				55B32CB02872DD9A00D66BA3 /* SceneDelegate.swift in Sources */,
+				55003E9028730BAC00599444 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
