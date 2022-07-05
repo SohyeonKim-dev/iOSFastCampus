@@ -17,3 +17,14 @@ class RoundButton: UIButton {
         }
     }
 }
+
+
+/*
+ 
+ @IBInspectable : customView 속성을 스토리보드에서 바로 변경 가능
+ 
+ @IBDesignable : 변경된 속성이 실시간으로 스토리보드에 적용됨
+ 
+ -> RoundButton : 이게 우리가 정의한 customView
+ 
+ */
